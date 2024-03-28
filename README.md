@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Hamza
+- 👀 I’m interested in Motorbikes, books and coding
+- 🌱 I’m currently learning html,css, javascript and c
+- 💞️ I’m looking to collaborate on any small time projects that can help me build a better profile
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I still cant perform a decent wheelie on my motorbike
